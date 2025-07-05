@@ -66,8 +66,17 @@ The frontend will run at:
 http://localhost:5173
 
 
+## 🖼️ App Screenshots
 
 
 
+<h3>🔸 Homepage</h3>
+<img src="./screenshots/home.png" alt="Homepage" width="600"/>
+
+<h3>🔸 Stackedbar chart</h3>
+<img src="./screenshots/dashboard_chart.png" alt="Dashboard" width="600"/>
+
+<h3>🔸 Tabular view of data</h3>
+<img src="./screenshots/table.png" alt="Table" width="600"/>
 
 
