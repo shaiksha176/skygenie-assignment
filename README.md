@@ -16,8 +16,8 @@ This application is structured with two main folders: Frontend & Backend
 ### 1. Clone the repository
 
 ```bash
-git clone repo_url
-cd repo_name
+git clone https://github.com/shaiksha176/skygenie-assignment.git
+cd skygenie-assignment
 ```
 
 ### 2. Backend set up
