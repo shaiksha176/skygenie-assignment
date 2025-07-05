@@ -1,9 +1,6 @@
 # Full Stack Application
 
-This application is structured with two main folders:
-
-- `frontend/` – React client application (Vite-based)
-- `backend/` – Node.js + Express server
+This application is structured with two main folders: Frontend & Backend
 
 ---
 
